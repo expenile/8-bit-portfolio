@@ -11,7 +11,7 @@ export default function Home() {
         <p className="title">Greetings!</p>
         <p>
         As a Full Stack practitioner, I bring fresh perspectives and a solid
-          core knowledge of networking, OS, DBMS, and data structures. Let's
+          core knowledge of networking, OS, DBMS, and data structures. Let&apos;
           collaborate to transform your tech challenges into innovative
           solutions.
         </p>
@@ -38,9 +38,7 @@ export default function Home() {
             <Link href="#" className="nes-badge">
               <span className="is-warning">JavaScript</span>
             </Link>
-            {/* <Link href="#" className="nes-badge">
-              <span className="is-success">Tailwind</span>
-            </Link> */}
+         
             <Link href="#" className="nes-badge">
             <span className="is-error">React.js</span>
           </Link>
